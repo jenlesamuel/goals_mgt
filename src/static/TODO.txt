@@ -1,0 +1,7 @@
+DO validation of all fields.
+
+clear some local storage data when new user logs in (or check before clearing)
+change welcome test color on index page
+
+*webpack css loader
+*webpa

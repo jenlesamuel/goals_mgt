@@ -1,0 +1,15 @@
+#IDE
+.idea
+*.vscode
+
+# Python copiled byte code
+*.pyc
+
+# Sqlite database
+*.sqlite3
+
+# Node modules
+node_modules/
+
+.virtualenv
+
