@@ -6,7 +6,7 @@ Django==1.10.4
 django-cors-headers==2.0.0
 django-rest-knox==2.2.0
 django-webpack-loader==0.4.1
-djangorestframework==3.5.3
+djangorestframework==3.11.2
 djangorestframework-timed-auth-token==1.2.0
 factory-boy==2.8.1
 Faker==0.7.10
